@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student Rust and Python programmer,<br>interested in everything computers and technology.<br><br>
+Student Engineer and Rust and Python programmer,<br>interested in everything computers and technology.<br><br>
 
 
 ## 🌐 Socials:
