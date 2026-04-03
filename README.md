@@ -1,6 +1,8 @@
 # 💫 About Me:
 Student Engineer and Rust and Python programmer,<br>interested in everything computers and technology.<br><br>
 
+linktr.ee/cdemin
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carrick.ature) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23067316) 
