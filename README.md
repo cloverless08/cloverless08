@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student Engineer and Rust and Python programmer,<br>interested in everything computers and technology.<br><br>
+Nuclear Engineering student learning C++ and Python,<br>interested in everything computers and technology.<br><br>
 
 linktr.ee/cdemin
 
