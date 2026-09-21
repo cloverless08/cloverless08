@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://tenor.com/view/bocchi-the-rock-ryo-yamada-hello-bye-bye-gif-10691789141514910740"  />
+![RyoYamda](bocchi-the-rock-ryo-yamada.gif)
 
 ###
 
