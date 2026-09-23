@@ -1,15 +1,11 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Carrick De Min and I'm a Nuclear Engineering Student, from Denver, Colorado.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Carrick De Min.</h2>
 
 ###
 
 No Generative AI was used in ANY of my projects unless clearly otherwise stated <3
 
-###
+Hello twin, I'm a young Nuclear Engineering student, I've loved coding since I was a kid with a Scratch account and am trying to teach myself C++ through a variety of self-taught or in-class projects.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/cloverless08/cloverless08/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/cloverless08/cloverless08/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 ###
 
 ![RyoYamda](bocchi-the-rock-ryo-yamada.gif)
