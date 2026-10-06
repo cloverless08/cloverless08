@@ -4,7 +4,7 @@
 
 No Generative AI was used in ANY of my projects unless clearly otherwise stated <3
 
-Hello twin, I'm a young Nuclear Engineering student, I've loved coding since I was a kid with a Scratch account and am trying to teach myself C++ through a variety of self-taught or in-class projects.
+Hello twin, I'm a young Nuclear Engineering student, I've loved coding since I was a kid with a Scratch account and am trying to teach myself C++ (or other languages!) through a variety of self-taught or in-class projects.
 
 ###
 
