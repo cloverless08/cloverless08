@@ -54,16 +54,9 @@ Hello twin, I'm a young Nuclear Engineering student, I've loved coding since I w
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/cloverless08/cloverless08/snake-output/snake.svg" alt="Snake animation" />
 
+---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 ---
