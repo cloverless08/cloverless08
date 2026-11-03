@@ -6,10 +6,6 @@
 
 I am a young Nuclear Engineering student who's learning development for hobby and community applications.
 
-## My Skills:
-- Actively Learning C++
-- Python in game development and numerical analysis
-
 ###
 
 ![RyoYamda](bocchi-the-rock-ryo-yamada.gif)
