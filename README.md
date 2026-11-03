@@ -2,9 +2,13 @@
 
 ###
 
-No Generative AI was used in ANY of my projects unless clearly otherwise stated <3
+*No Generative AI was used in ANY of my projects unless clearly otherwise stated <3*
 
 I am a young Nuclear Engineering student who's learning development for hobby and community applications.
+
+## My Skills:
+- Actively Learning C++
+- Python in game development and numerical analysis
 
 ###
 
